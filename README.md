@@ -300,9 +300,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 For questions, feedback, or collaboration:
-- **Email**: your-email@hamzadenizyilmaz.com (replace with your actual email)
-- **GitHub**: [your-username](https://github.com/your-username) (replace with your GitHub username)
+- **Email**: info@hamzadenizyilmaz.com
 - **Website**: [hamzadenizyilmaz.com](https://hamzadenizyilmaz.com)
-- **LinkedIn** (optional): [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
 
 Thank you for exploring my portfolio repository! I hope this guide helps you set up and customize your own website. 🌟
